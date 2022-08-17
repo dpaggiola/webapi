@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniel/Documents/Platzi/webapi/webapi.csproj",
+      "projectUniqueName": "/Users/daniel/Documents/Platzi/webapi/webapi/webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "/Users/daniel/Documents/Platzi/webapi/webapi.csproj",
+      "projectPath": "/Users/daniel/Documents/Platzi/webapi/webapi/webapi.csproj",
       "packagesPath": "/Users/daniel/.nuget/packages/",
-      "outputPath": "/Users/daniel/Documents/Platzi/webapi/obj/",
+      "outputPath": "/Users/daniel/Documents/Platzi/webapi/webapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniel/.nuget/NuGet/NuGet.Config"
